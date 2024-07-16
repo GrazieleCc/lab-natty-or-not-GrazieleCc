@@ -26,6 +26,3 @@ Este vídeo de aproximadamente 3 minutos apresenta uma análise concisa e envolv
 💭 **Reflexão**
 Trabalhar neste projeto demonstrou como a IA generativa pode ser uma ferramenta poderosa não apenas para automação, mas também para amplificar a voz humana na discussão de temas cruciais. A capacidade do ChatGPT de criar roteiros claros e coerentes, combinada com a inovação visual e auditiva proporcionada pelo D-ID, ofereceu uma nova forma de apresentar informações complexas de maneira acessível e envolvente. Este projeto não só destacou o potencial das tecnologias emergentes em revolucionar a produção de conteúdo, mas também sublinhou a importância de utilizá-las de forma ética e consciente para fomentar diálogos informados e inclusivos sobre o futuro do trabalho. A experiência foi um verdadeiro aprendizado sobre as sinergias possíveis entre humanos e máquinas na era digital.
 
----
-
-Se precisar de mais ajustes ou detalhes, por favor, avise.
